@@ -50,6 +50,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 # Program :
+
+Developed by : HARINI R.
+Register Number : 212223100010
+
+
 ```
 import numpy as np
 L=[int(i) for i in input().split()]
